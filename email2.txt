@@ -1,0 +1,29 @@
+Dear Vendor,
+
+Please process this bulk order with shipping:
+
+ORDER DETAILS:
+50 Cotton T-Shirt (TSHIRT-001)
+30 Jeans (PANTS-101)
+15 Running Shoes (SHOES-202)
+
+Delivery Address:
+Corporate Headquarters
+789 Commerce Plaza
+Building C, Floor 5
+Metro City, IL 60601
+
+
+SPECIAL NOTES:
+- Please include separate packing slips for each location
+- Rush processing required
+- Use our account # 12345 for billing
+- Contact me directly for any questions
+
+Sincerely,
+Emily Chen,
+Director of Operations
+Big Retail Chain
+echen@bigretail.com
+(555) 789-0123 (office)
+(555) 789-4567 (mobile)

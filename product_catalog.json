@@ -1,0 +1,34 @@
+{
+    "products": [
+      {
+        "sku": "TSHIRT-001",
+        "name": "Cotton T-Shirt",
+        "price": 19.99
+      },
+      {
+        "sku": "PANTS-101",
+        "name": "Jeans",
+        "price": 49.99
+      },
+      {
+        "sku": "SHOES-202",
+        "name": "Running Shoes",
+        "price": 89.99
+      },
+      {
+        "sku": "HAT-303",
+        "name": "Baseball Cap",
+        "price": 24.99
+      },
+      {
+        "sku": "SOCKS-404",
+        "name": "Ankle Socks",
+        "price": 9.99
+      },
+      {
+        "sku": "JACKET-505",
+        "name": "Waterproof Jacket",
+        "price": 129.99
+      }
+    ]
+  }

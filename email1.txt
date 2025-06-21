@@ -1,0 +1,14 @@
+Hi there,
+
+I'd like to place an order for:
+- 2 Cotton T-Shirts (TSHIRT-001)
+- 4 pair of Jeans (PANTS-101)
+
+Please ship to:
+123 Main Street
+Anytown, CA 90210
+
+I need these by next Friday if possible.
+
+Thanks!
+Jane Doe
