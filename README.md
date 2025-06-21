@@ -27,3 +27,11 @@ pip install -r requirements.txt
 
 # 4. Download spaCy language model:
 python -m spacy download en_core_web_sm
+
+# 5. Running the Application
+* Web Interface (Streamlit)
+  - streamlit run streamlit_app.py
+ 
+* Command Line Interface
+  - python main.py
+    
