@@ -34,4 +34,16 @@ python -m spacy download en_core_web_sm
  
 * Command Line Interface
   - python main.py
-    
+
+
+
+## Sample Emails
+The system handles various email formats including:
+
+Simple personal orders
+
+Complex corporate orders
+
+Urgent/rush orders
+
+Orders with special instructions
