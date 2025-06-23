@@ -1,4 +1,5 @@
 # Email_To_Order_Automation
+A system that extracts structured order information from unstructured email content using NLP and pattern matching.
 
 ## Overview
 This system extracts structured order information from unstructured email content, including:
@@ -15,6 +16,7 @@ This system extracts structured order information from unstructured email conten
 - Identifies priority/urgent orders
 - Provides confidence scores for extracted data
 - Streamlit web interface for easy interaction
+- Export capabilities (JSON, CSV)
 
 
 # 2. Create and activate a virtual environment:
