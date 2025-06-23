@@ -6,7 +6,6 @@ This system extracts structured order information from unstructured email conten
 - Product details (SKU, quantity, price)
 - Shipping address
 - Delivery dates
-- Special instructions
 - Contact information
 
 ## Features
